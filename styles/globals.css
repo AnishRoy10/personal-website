@@ -3,6 +3,9 @@ html{
 }
 
 body{
+  /* background-color: lightslategray; */
+  background: url('../public/background.jpg') no-repeat;
+  background-size: cover;
   padding: 0;
   margin: 0;
 }
