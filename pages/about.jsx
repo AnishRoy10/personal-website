@@ -9,9 +9,9 @@ const about = () => {
             Hi, I'm Anish Roy, a computer science student at the University of Toronto.
             <br /> other stuff
         </p>
-        <Button path = "Anish_s_Resume.pdf">Resume</Button>
+        <Button path = "Anish_s_Resume.pdf" newtab = {true}>Resume</Button>
         
-        <Button path = "/projects">Projects</Button> 
+        <Button path = "/projects" >Projects</Button> 
     </div>;
 };
 
