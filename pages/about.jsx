@@ -1,5 +1,6 @@
 import Button from "@/components/Button";
 import styles from "@/styles/about.module.css";
+// import resume from "@/public/Anish_s_Resume.pdf";
 
 const about = () => {
     return <div className={styles.about}>
@@ -8,7 +9,9 @@ const about = () => {
             Hi, I'm Anish Roy, a computer science student at the University of Toronto.
             <br /> other stuff
         </p>
-        <Button path = "/projects">Projects</Button>
+        <Button path = "Anish_s_Resume.pdf">Resume</Button>
+        
+        <Button path = "/projects">Projects</Button> 
     </div>;
 };
 
