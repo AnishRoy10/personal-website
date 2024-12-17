@@ -12,7 +12,32 @@
   margin: 0;
 }
 
+.home h2 {
+  font-size: 30px;
+  margin: 20px;
+}
+
 .home p {
   font-size: 20px;
-  margin: 50px;
+  margin: 20px;
 }
+
+.home Button {
+  margin: 20px;
+}
+
+.links-container {
+  display: flex;
+  gap: 1rem; /* Space between the links */
+  align-items: center; /* Align items vertically */
+  justify-content: center; /* Center them horizontally (optional) */
+}
+
+.links-container a {
+  margin-right: 10px; /* Add space to the right of each link */
+}
+
+.links-container a:last-child {
+  margin-right: 0; /* Remove margin from the last link */
+}
+

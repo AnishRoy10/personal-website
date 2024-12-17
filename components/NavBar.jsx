@@ -7,7 +7,8 @@ const NavBar = () => {
         <a className={styles.logoLink}>ANISH ROY</a>
         </Link>
         <Link href="/">Home</Link>
-        <Link href="/about">About</Link>
+        {/* <Link href="/about">About</Link>
+        <Link href="#about-section">My second section</Link> */}
         <Link href="/projects">Projects</Link>
     </nav>;
 };
