@@ -1,8 +1,39 @@
 .blog {
-    text-align: center;
-    height: calc(100vh - 60px);
+    
+    /* height: calc(100vh - 60px); */
+    justify-content: center;
+  }
+
+  .blog a {
+    font-size: 20px;
+    color: white;
+    text-decoration: underline;
+    align-items: left;
+    margin-left: 40px;
+    width: 400px;
+    height: 20px;
+    display: inline-block;
+    flex-direction: row;
+  }
+
+  .blog h1 {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
     align-items: center;
+  }
+
+  .blog p {
+    font-size: 20px;
+    color: white;
+    font-style: italic;
+    align-items: right;
+    text-align: left;
+    margin-left: 40px;
+    width: calc(100vw - 600px);
+    height: 20px;
+    display: inline-block;
+    flex-direction: row;
   }

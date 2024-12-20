@@ -1,0 +1,26 @@
+.article {
+    text-align: center;
+    height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .article h1 {
+    margin-bottom: 10px;
+  }
+
+  .article h2 {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 50;
+    margin-top: 0;
+  }
+  
+  .article p {
+    font-size: 20px;
+    margin: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
