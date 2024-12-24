@@ -6,7 +6,7 @@ const blog = () => {
         <h1> Blog </h1>
         <Link href="/blog/adjusting-to-university-my-first-year">
         Adjusting to University: My First Year</Link>
-        <p>date</p>
+        <p>December 24, 2024</p>
     </div>
 }
 

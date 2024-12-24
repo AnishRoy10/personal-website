@@ -9,11 +9,11 @@
     color: white;
     text-decoration: underline;
     align-items: left;
-    margin-left: 40px;
-    width: 400px;
+    margin-left: 200px;
+    width: 315px;
     height: 20px;
-    display: inline-block;
-    flex-direction: row;
+    /* display: inline-block;
+    flex-direction: row; */
   }
 
   .blog h1 {
@@ -31,9 +31,9 @@
     font-style: italic;
     align-items: right;
     text-align: left;
-    margin-left: 40px;
+    margin-left: 200px;
     width: calc(100vw - 600px);
     height: 20px;
-    display: inline-block;
-    flex-direction: row;
+    /* display: inline-block;
+    flex-direction: row; */
   }
