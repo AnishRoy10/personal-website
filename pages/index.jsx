@@ -1,5 +1,5 @@
 import Button from "@/components/Button";
-import styles from "@/styles/blog.module.css";
+import styles from "@/styles/Home.module.css";
 import Link from "next/link";
 import Image from "next/image";
 
