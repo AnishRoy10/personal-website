@@ -5,6 +5,8 @@ html{
 body{
   /* background-color: lightslategray; */
   background: url('../public/background.jpg') repeat;
+  /* background-color: rgb(156, 158, 160); */
+  /* background-color: rgb(237 232 245); */
   background-repeat: repeat;
   background-attachment: scroll;
   /* background-size:cover; */

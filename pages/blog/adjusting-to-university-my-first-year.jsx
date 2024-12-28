@@ -40,13 +40,13 @@ const blog1 = () => {
             <br />
             Now before ending of this post, I want to talk about some of the things I wish I did in my first year that I hope others can learn from. 
             The first thing I wish I did was start working on my own personal projects. 
-            If you're in CS, having coding projects to add to your resume and show your experience is really valuable for getting your first internship. 
+            If you’re in CS, having coding projects to add to your resume and show your experience is really valuable for getting your first internship. 
             And if you aren’t in CS, finding ways to get experience like research opportunities is great for getting to your career end goal. 
             I also wish I had attended some hackathons so I could get some experience under my belt while also being able to network with others. 
             The last thing I wish I had done was get more involved in my university’s community. 
             I think it would have made my life at university a lot more enjoyable. 
             Interacting with clubs related to my field would have also been good for me to get to talk with my upperclassmen and build even more connections. 
-            So if you're someone who doesn’t really interact with your university’s community, I really encourage you to do so as it will be a really valuable experience for you.         
+            So if you’re someone who doesn’t really interact with your university’s community, I really encourage you to do so as it will be a really valuable experience for you.         
             <br />
             <br />
             All in all, I think I did a lot of good things on the academic side of university, but I think there was a lot I could have done better apart from the academic side. 
